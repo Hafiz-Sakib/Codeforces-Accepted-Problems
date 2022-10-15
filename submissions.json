@@ -1,4 +1,21 @@
 {
+  "CF176385435": {
+    "contest_id": 389,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\389\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fox and Number Game",
+    "problem_url": "https://codeforces.com/contest/389/problem/A",
+    "submission_id": "CF176385435",
+    "submission_url": "https://codeforces.com/contest/389/submission/176385435",
+    "tags": [
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Oct/16/2022 00:10"
+  },
   "CF176386880": {
     "contest_id": 1742,
     "language": "GNU C++17 (64)",
