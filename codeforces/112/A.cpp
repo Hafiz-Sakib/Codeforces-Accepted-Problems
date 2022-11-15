@@ -1,24 +1,29 @@
-/// In the name of ALLAH
-
-#include<bits/stdc++.h>
+#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
-
-
-#define optimize() ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
-
-
+#define Boost                         \
+    ios_base::sync_with_stdio(false); \
+    cin.tie(NULL);                    \
+    cout.tie(NULL)
 int main()
 {
-    optimize();
+    Boost;
+    string s, st;
+    cin >> s >> st;
+    transform(s.begin(), s.end(), s.begin(), ::tolower);
+    transform(st.begin(), st.end(), st.begin(), ::tolower);
 
-    string s1, s2;
-    cin >> s1 >> s2;
-
-    for ( int i = 0; i < s1.size(); i++ ) s1[i] = tolower ( s1[i] );
-    for ( int i = 0; i < s2.size(); i++ ) s2[i] = tolower ( s2[i] );
-
-    if ( s1 < s2 ) cout << "-1";
-    else if ( s1 > s2 ) cout << "1";
-    else cout << "0";
-
+    if (s < st)
+    {
+        cout << -1 << endl;
+    }
+    else if (s > st)
+    {
+        cout << 1 << endl;
+    }
+    else
+    {
+        cout << 0 << endl;
+    }
+    return 0;
 }
