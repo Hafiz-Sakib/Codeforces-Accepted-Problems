@@ -256,6 +256,26 @@
     ],
     "timestamp": "Nov/19/2022 00:30"
   },
+  "CF181529505": {
+    "contest_id": 1759,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1759\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "All Possible Digits",
+    "problem_url": "https://codeforces.com/contest/1759/problem/F",
+    "submission_id": "CF181529505",
+    "submission_url": "https://codeforces.com/contest/1759/submission/181529505",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Nov/19/2022 00:40"
+  },
   "CF181529536": {
     "contest_id": 1759,
     "language": "GNU C++20 (64)",
