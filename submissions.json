@@ -1,4 +1,20 @@
 {
+  "CF181420948": {
+    "contest_id": 630,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\630\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Again Twenty Five!",
+    "problem_url": "https://codeforces.com/contest/630/problem/A",
+    "submission_id": "CF181420948",
+    "submission_url": "https://codeforces.com/contest/630/submission/181420948",
+    "tags": [
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Nov/18/2022 19:42"
+  },
   "CF181528534": {
     "contest_id": 1759,
     "language": "GNU C++20 (64)",
