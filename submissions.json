@@ -1,4 +1,21 @@
 {
+  "CF181528534": {
+    "contest_id": 1759,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1759\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yes-Yes?",
+    "problem_url": "https://codeforces.com/contest/1759/problem/A",
+    "submission_id": "CF181528534",
+    "submission_url": "https://codeforces.com/contest/1759/submission/181528534",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Nov/19/2022 00:30"
+  },
   "CF184056016": {
     "contest_id": 1742,
     "language": "GNU C++20 (64)",
