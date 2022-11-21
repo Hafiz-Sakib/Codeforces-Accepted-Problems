@@ -256,6 +256,22 @@
     ],
     "timestamp": "Nov/19/2022 00:30"
   },
+  "CF181848347": {
+    "contest_id": 1722,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1722\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Spell Check",
+    "problem_url": "https://codeforces.com/contest/1722/problem/A",
+    "submission_id": "CF181848347",
+    "submission_url": "https://codeforces.com/contest/1722/submission/181848347",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/21/2022 12:56"
+  },
   "CF182045900": {
     "contest_id": 1760,
     "language": "GNU C++20 (64)",
