@@ -9,14 +9,15 @@ int main()
     cin >> t;
     while (t--)
     {
-        string x = "Timur";
+        string x = "Timru";
         int n;
         cin >> n;
         string s;
         cin >> s;
-        sort(x.begin(), x.end());
+        // sort(x.begin(), x.end());
         sort(s.begin(), s.end());
         cout << (x == s ? "YES" : "NO") << '\n';
+        // cout << x << ' '<< s << endl;
     }
     return 0;
 }
