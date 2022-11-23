@@ -1,7 +1,7 @@
 /*
 
 string author;
-author = Hafiz_Sakib!;
+author = Hafiz_Sakib;
 
 */
 #include <iostream>
