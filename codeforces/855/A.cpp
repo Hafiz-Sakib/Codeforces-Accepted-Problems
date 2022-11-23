@@ -1,7 +1,7 @@
 /*
 
 string author;
-author = Hafiz_Sakib;
+author = Hafiz_Sakib!;
 
 */
 #include <iostream>
@@ -18,19 +18,20 @@ int main()
     Boost;
     int n;
     cin >> n;
-
-    map<string, bool> vis;
-
-    while (n--)
+    map<string, int> m;
+    for (int i = 0; i < n; i++)
     {
         string s;
         cin >> s;
-        if (vis[s] == 1)
-            cout << "YES\n";
+        m[s]++;
+        if (m[s] > 1)
+        {
+            cout << "YES" << endl;
+        }
         else
-            cout << "NO\n";
-
-        vis[s] = 1;
+        {
+            cout << "NO" << endl;
+        }
     }
 
     return 0;
