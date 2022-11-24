@@ -13,19 +13,27 @@ using namespace std;
     ios_base::sync_with_stdio(false); \
     cin.tie(NULL);                    \
     cout.tie(NULL)
+
+int a[100000 + 23];
 int main()
 {
     Boost;
     int box;
     cin >> box;
     map<int, int> count;
-    int maxi = 0;
+
     for (int i = 0; i < box; i++)
     {
-        int a;
-        cin >> a;
-        count[a]++;
-        maxi = max(maxi, count[a]);
+        cin >> a[i];
+        count[a[i]]++;
+    }
+
+    int maxi = 0;
+
+    for (auto u : count)
+    {
+
+        maxi = max(maxi, u.second);
     }
 
     cout << maxi;
