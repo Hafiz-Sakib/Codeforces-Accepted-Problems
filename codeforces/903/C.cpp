@@ -33,7 +33,11 @@ int main()
     for (auto u : count)
     {
 
-        maxi = max(maxi, u.second);
+        if (u.second > maxi)
+        {
+            maxi = u.second;
+        }
+
     }
 
     cout << maxi;
