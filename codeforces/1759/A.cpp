@@ -8,47 +8,48 @@ int main()
     cin.tie(NULL);
     cout.tie(NULL);
     string s1;
-    int n = 50;
-    while (n--)
-    {
-        s1 += "Yes";
-    }
-
     int t = 1;
     cin >> t;
     while (t--)
     {
         string s;
         cin >> s;
-        int flag = 1;
-        for (auto u : s)
+        bool flag = true;
+        for (int i = 0; i < s.size(); i++)
         {
-            if (u != 'Y' && u != 'e' && u != 's')
+            if (s[i] != 'Y' && s[i] != 'e' && s[i] != 's')
             {
-                cout << "NO" << endl;
-                flag = 0;
-                break;
+                flag = false;
             }
         }
 
-        // Yess : no
-
-        // Sound  : YesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYes
-
         // could hear esY, YesYes, sYes, e,
-
         // but you couldn't Yess, YES or se.
 
+        for (int i = 0; i < s.size() - 1; i++)
+        {
+            if (s[i] == 'Y' && s[i + 1] != 'e')
+            {
+                flag = false;
+            }
+            if (s[i] == 'e' && s[i + 1] != 's')
+            {
+                flag = false;
+            }
+            if (s[i] == 's' && s[i + 1] != 'Y')
+            {
+                flag = false;
+            }
+        }
         if (flag)
         {
-            if (s1.find(s) != -1)
-            {
-                cout << "YES" << endl;
-            }
-            else
-            {
-                cout << "NO" << endl;
-            }
+            cout << "YES"
+                 << "\n";
+        }
+        else
+        {
+            cout << "NO"
+                 << "\n";
         }
     }
     return 0;
