@@ -43,7 +43,6 @@ int main()
         else
         {
             cout << 1 << " " << 2 << " " << 3 << " ";
-
             for (int i = 3; i < num; i++)
             {
                 cout << 2 << " ";
@@ -51,5 +50,5 @@ int main()
             cout << endl;
         }
     }
-
+    return 0;
 }
