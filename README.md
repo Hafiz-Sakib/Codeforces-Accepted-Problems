@@ -251,7 +251,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 16 | [A - SSeeeeiinngg DDoouubbllee](https://codeforces.com/contest/1758/problem/A) | [GNU C++20 (64)](./codeforces/1758/A.cpp) | `constructive algorithms` `strings` `*800` | Nov/25/2022 22:12 | 
 15 | [B - Spider Man](https://codeforces.com/contest/705/problem/B) | [GNU C++20 (64)](./codeforces/705/B.cpp) | `games` `math` `*1100` | Nov/25/2022 20:22 | 
 14 | [A - Hulk](https://codeforces.com/contest/705/problem/A) | [GNU C++20 (64)](./codeforces/705/A.cpp) | `implementation` `*800` | Nov/25/2022 20:15 | 
-13 | [A - Yes-Yes?](https://codeforces.com/contest/1759/problem/A) | [GNU C++20 (64)](./codeforces/1759/A.cpp) | `implementation` `strings` `*800` | Nov/19/2022 00:30 | 
+13 | [A - Yes-Yes?](https://codeforces.com/contest/1759/problem/A) | [GNU C++20 (64)](./codeforces/1759/A.cpp) | `implementation` `strings` `*800` | Nov/25/2022 19:51 | 
 12 | [A - Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | [GNU C++20 (64)](./codeforces/630/A.cpp) | `number theory` `*800` | Nov/18/2022 19:42 | 
 11 | [A - Rank List](https://codeforces.com/contest/166/problem/A) | [GNU C++20 (64)](./codeforces/166/A.cpp) | `binary search` `implementation` `sortings` `*1100` | Nov/18/2022 09:55 | 
 10 | [B - DZY Loves Strings](https://codeforces.com/contest/447/problem/B) | [GNU C++20 (64)](./codeforces/447/B.cpp) | `greedy` `implementation` `*1000` | Nov/18/2022 08:46 | 
