@@ -256,6 +256,23 @@
     ],
     "timestamp": "Nov/19/2022 00:30"
   },
+  "CF182683034": {
+    "contest_id": 1764,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1764\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Doremy's Perfect Math Class",
+    "problem_url": "https://codeforces.com/contest/1764/problem/B",
+    "submission_id": "CF182683034",
+    "submission_url": "https://codeforces.com/contest/1764/submission/182683034",
+    "tags": [
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Nov/26/2022 21:20"
+  },
   "CF182707813": {
     "contest_id": 1764,
     "language": "GNU C++20 (64)",
