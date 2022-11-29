@@ -13,6 +13,8 @@ using namespace std;
     ios_base::sync_with_stdio(false); \
     cin.tie(NULL);                    \
     cout.tie(NULL)
+
+int a[100001];
 int main()
 {
     Boost;
@@ -20,9 +22,8 @@ int main()
     cin >> n;
     for (int i = 0; i < n; i++)
     {
-        int a;
-        cin >> a;
-        ans = ans + a;
+        cin >> a[i];
+        ans = ans + a[i];
     }
     cout << ans << endl;
     return 0;
