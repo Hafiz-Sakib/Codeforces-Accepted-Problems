@@ -25,6 +25,5 @@ int main()
         ans = ans + a;
     }
     cout << ans << endl;
-    
     return 0;
 }
