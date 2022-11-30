@@ -23,17 +23,14 @@ int main()
         string data;
         cin >> data;
         transform(data.begin(), data.end(), data.begin(), ::toupper);
-        /*         if (data == "YES" || data == "NO")
-                {
-                    cout << "YES" << endl;
-                }
-                else
-                {
-                    cout << "NO" << endl;
-                }
-                */
-
-        cout << (data == "YES" ? "YES" : "NO") << '\n';
+        if (data == "YES" || data == "NO")
+        {
+            cout << "YES" << endl;
+        }
+        else
+        {
+            cout << "NO" << endl;
+        }
     }
     return 0;
 }
