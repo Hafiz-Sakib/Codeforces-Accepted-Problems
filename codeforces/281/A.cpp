@@ -18,7 +18,13 @@ int main()
     Boost;
     string s;
     cin >> s;
-    s[0] = toupper(s[0]);
+    for (int i = 0; i < s.size(); i++)
+    {
+        if (i == 0)
+        {
+            s[i] = (towupper(s[i]));
+        }
+    }
     cout << s << endl;
 
     return 0;
