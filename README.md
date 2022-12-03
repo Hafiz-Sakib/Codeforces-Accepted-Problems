@@ -232,17 +232,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 17 | [A - Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | [GNU C++20 (64)](./codeforces/1560/A.cpp) | `implementation` `*800` | Dec/06/2022 10:42 | 
 16 | [B - Increasing](https://codeforces.com/contest/1742/problem/B) | [GNU C++20 (64)](./codeforces/1742/B.cpp) | `greedy` `implementation` `sortings` `*800` | Dec/06/2022 10:11 | 
 15 | [A - Word Capitalization](https://codeforces.com/contest/281/problem/A) | [GNU C++20 (64)](./codeforces/281/A.cpp) | `implementation` `strings` `*800` | Dec/03/2022 22:48 | 
-14 | [A - Yes-Yes?](https://codeforces.com/contest/1759/problem/A) | [GNU C++20 (64)](./codeforces/1759/A.cpp) | `implementation` `strings` `*800` | Nov/19/2022 00:30 | 
-13 | [A - Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | [GNU C++20 (64)](./codeforces/630/A.cpp) | `number theory` `*800` | Nov/18/2022 19:42 | 
-12 | [A - Rank List](https://codeforces.com/contest/166/problem/A) | [GNU C++20 (64)](./codeforces/166/A.cpp) | `binary search` `implementation` `sortings` `*1100` | Nov/18/2022 09:55 | 
-11 | [B - DZY Loves Strings](https://codeforces.com/contest/447/problem/B) | [GNU C++20 (64)](./codeforces/447/B.cpp) | `greedy` `implementation` `*1000` | Nov/18/2022 08:46 | 
-10 | [A - Select Three Sticks](https://codeforces.com/contest/1734/problem/A) | [GNU C++20 (64)](./codeforces/1734/A.cpp) | `brute force` `greedy` `sortings` `*800` | Nov/18/2022 08:45 | 
-9 | [B - Jzzhu and Sequences](https://codeforces.com/contest/450/problem/B) | [GNU C++20 (64)](./codeforces/450/B.cpp) | `implementation` `math` `*1300` | Nov/18/2022 08:44 | 
-8 | [B - Roadside Trees (Simplified Edition)](https://codeforces.com/contest/265/problem/B) | [GNU C++20 (64)](./codeforces/265/B.cpp) | `greedy` `implementation` `*1000` | Nov/18/2022 08:44 | 
-7 | [B - Lecture](https://codeforces.com/contest/499/problem/B) | [GNU C++20 (64)](./codeforces/499/B.cpp) | `implementation` `strings` `*1000` | Nov/18/2022 08:43 | 
-6 | [B - T-primes](https://codeforces.com/contest/230/problem/B) | [GNU C++20 (64)](./codeforces/230/B.cpp) | `binary search` `implementation` `math` `number theory` `*1300` | Nov/18/2022 08:43 | 
-5 | [B - Kind Anton](https://codeforces.com/contest/1333/problem/B) | [GNU C++20 (64)](./codeforces/1333/B.cpp) | `greedy` `implementation` `*1100` | Nov/18/2022 08:42 | 
-4 | [B - Anton and currency you all know](https://codeforces.com/contest/508/problem/B) | [GNU C++20 (64)](./codeforces/508/B.cpp) | `greedy` `math` `strings` `*1300` | Nov/18/2022 08:42 | 
-3 | [A - Immobile Knight](https://codeforces.com/contest/1739/problem/A) | [GNU C++20 (64)](./codeforces/1739/A.cpp) | `implementation` `*800` | Nov/18/2022 08:41 | 
-2 | [A - The Ultimate Square](https://codeforces.com/contest/1748/problem/A) | [GNU C++20 (64)](./codeforces/1748/A.cpp) | `math` `*800` | Nov/18/2022 08:40 | 
+14 | [A - The Ultimate Square](https://codeforces.com/contest/1748/problem/A) | [GNU C++20 (64)](./codeforces/1748/A.cpp) | `math` `*800` | Dec/03/2022 22:38 | 
+13 | [A - Yes-Yes?](https://codeforces.com/contest/1759/problem/A) | [GNU C++20 (64)](./codeforces/1759/A.cpp) | `implementation` `strings` `*800` | Nov/19/2022 00:30 | 
+12 | [A - Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | [GNU C++20 (64)](./codeforces/630/A.cpp) | `number theory` `*800` | Nov/18/2022 19:42 | 
+11 | [A - Rank List](https://codeforces.com/contest/166/problem/A) | [GNU C++20 (64)](./codeforces/166/A.cpp) | `binary search` `implementation` `sortings` `*1100` | Nov/18/2022 09:55 | 
+10 | [B - DZY Loves Strings](https://codeforces.com/contest/447/problem/B) | [GNU C++20 (64)](./codeforces/447/B.cpp) | `greedy` `implementation` `*1000` | Nov/18/2022 08:46 | 
+9 | [A - Select Three Sticks](https://codeforces.com/contest/1734/problem/A) | [GNU C++20 (64)](./codeforces/1734/A.cpp) | `brute force` `greedy` `sortings` `*800` | Nov/18/2022 08:45 | 
+8 | [B - Jzzhu and Sequences](https://codeforces.com/contest/450/problem/B) | [GNU C++20 (64)](./codeforces/450/B.cpp) | `implementation` `math` `*1300` | Nov/18/2022 08:44 | 
+7 | [B - Roadside Trees (Simplified Edition)](https://codeforces.com/contest/265/problem/B) | [GNU C++20 (64)](./codeforces/265/B.cpp) | `greedy` `implementation` `*1000` | Nov/18/2022 08:44 | 
+6 | [B - Lecture](https://codeforces.com/contest/499/problem/B) | [GNU C++20 (64)](./codeforces/499/B.cpp) | `implementation` `strings` `*1000` | Nov/18/2022 08:43 | 
+5 | [B - T-primes](https://codeforces.com/contest/230/problem/B) | [GNU C++20 (64)](./codeforces/230/B.cpp) | `binary search` `implementation` `math` `number theory` `*1300` | Nov/18/2022 08:43 | 
+4 | [B - Kind Anton](https://codeforces.com/contest/1333/problem/B) | [GNU C++20 (64)](./codeforces/1333/B.cpp) | `greedy` `implementation` `*1100` | Nov/18/2022 08:42 | 
+3 | [B - Anton and currency you all know](https://codeforces.com/contest/508/problem/B) | [GNU C++20 (64)](./codeforces/508/B.cpp) | `greedy` `math` `strings` `*1300` | Nov/18/2022 08:42 | 
+2 | [A - Immobile Knight](https://codeforces.com/contest/1739/problem/A) | [GNU C++20 (64)](./codeforces/1739/A.cpp) | `implementation` `*800` | Nov/18/2022 08:41 | 
 1 | [B - Little Pony and Sort by Shift](https://codeforces.com/contest/454/problem/B) | [GNU C++20 (64)](./codeforces/454/B.cpp) | `implementation` `*1200` | Nov/18/2022 08:40 | 
