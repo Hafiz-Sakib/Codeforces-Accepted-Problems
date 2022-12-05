@@ -17,9 +17,8 @@ void Boom()
 {
     int n;
     cin >> n;
-    string s, p = "Timur";
+    string s, p = "Timru";
     cin >> s;
-    sort(p.begin(), p.end());
     sort(s.begin(), s.end());
     if (p == s)
     {
