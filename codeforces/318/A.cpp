@@ -20,23 +20,32 @@ void Boom()
 {
     // Let's Move
     long long int n, k;
-    cin >> n >> k;
-    long long int p;
+    scanf("%I64d %I64d", &n, &k);
+
     if (n % 2 == 0)
     {
-        p = n / 2;
+        if (k <= n / 2)
+        {
+            printf("%I64d", (2 * k) - 1);
+        }
+        else
+        {
+            k = k - n / 2;
+            printf("%I64d", 2 * k);
+        }
     }
     else
     {
-        p = (n / 2) + 1;
-    }
-    if (k <= p)
-    {
-        cout << 2 * k - 1;
-    }
-    else
-    {
-        cout << (k - p) * 2;
+        n++;
+        if (k <= n / 2)
+        {
+            printf("%I64d", (2 * k) - 1);
+        }
+        else
+        {
+            k = k - n / 2;
+            printf("%I64d", 2 * k);
+        }
     }
 }
 
