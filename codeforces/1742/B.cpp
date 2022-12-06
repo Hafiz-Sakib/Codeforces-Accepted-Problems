@@ -25,6 +25,11 @@ void Boom()
         int a;
         cin >> v[i];
     }
+    if (n == 1)
+    {
+        cout << "YES" << endl;
+        return;
+    }
 
     sort(v.begin(), v.end());
 
