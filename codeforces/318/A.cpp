@@ -19,23 +19,24 @@ using namespace std;
 void Boom()
 {
     // Let's Move
-    long long int n,k;
+    long long int n, k;
     cin >> n >> k;
-    if(n%2==0){
-        if(k<=n/2){
-            cout << ((2*k)-1) << endl;
-        }
-        else{
-            cout << ((2*k)-n) << endl;
-        }
+    long long int p;
+    if (n % 2 == 0)
+    {
+        p = n / 2;
     }
-    else{
-        if(k<=((n+1)/2)){
-            cout << ((2*k)-1) << endl;
-        }
-        else{
-            cout << 2*(k-n/2-1) << endl;
-        }
+    else
+    {
+        p = (n / 2) + 1;
+    }
+    if (k <= p)
+    {
+        cout << 2 * k - 1;
+    }
+    else
+    {
+        cout << (k - p) * 2;
     }
 }
 
