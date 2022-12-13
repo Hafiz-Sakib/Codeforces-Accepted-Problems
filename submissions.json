@@ -1,4 +1,20 @@
 {
+  "CF185091818": {
+    "contest_id": 1766,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1766\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Notepad#",
+    "problem_url": "https://codeforces.com/contest/1766/problem/B",
+    "submission_id": "CF185091818",
+    "submission_url": "https://codeforces.com/contest/1766/submission/185091818",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/13/2022 21:03"
+  },
   "CF186588606": {
     "contest_id": 1763,
     "language": "GNU C++20 (64)",
