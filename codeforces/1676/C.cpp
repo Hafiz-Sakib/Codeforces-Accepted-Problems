@@ -28,6 +28,10 @@ int main()
         int n, m;
         cin >> n >> m;
         vector<string> v(n);
+        for (auto a : v)
+        {
+            cout << a << " ";
+        }
         for (auto &x : v)
         {
             cin >> x;
