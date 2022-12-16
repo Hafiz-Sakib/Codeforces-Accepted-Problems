@@ -2219,6 +2219,25 @@
     ],
     "timestamp": "Dec/14/2022 12:09"
   },
+  "CF185404405": {
+    "contest_id": 1762,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1762\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Make Array Good",
+    "problem_url": "https://codeforces.com/contest/1762/problem/B",
+    "submission_id": "CF185404405",
+    "submission_url": "https://codeforces.com/contest/1762/submission/185404405",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "number theory",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Dec/16/2022 07:42"
+  },
   "CF185415843": {
     "contest_id": 1343,
     "language": "GNU C++20 (64)",
