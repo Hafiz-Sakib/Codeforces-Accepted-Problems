@@ -2219,6 +2219,22 @@
     ],
     "timestamp": "Dec/14/2022 12:09"
   },
+  "CF185574576": {
+    "contest_id": 884,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\884\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Book Reading",
+    "problem_url": "https://codeforces.com/contest/884/problem/A",
+    "submission_id": "CF185574576",
+    "submission_url": "https://codeforces.com/contest/884/submission/185574576",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/17/2022 08:40"
+  },
   "CF185783610": {
     "contest_id": 842,
     "language": "GNU C++20 (64)",
