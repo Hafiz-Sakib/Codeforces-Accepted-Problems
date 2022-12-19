@@ -26,7 +26,6 @@ void Boom()
     {
         if (s[i] == 'W' && s[i + 1] == 'U' && s[i + 2] == 'B')
         {
-            debug(i);
             cout << " ";
             i += 2;
         }
