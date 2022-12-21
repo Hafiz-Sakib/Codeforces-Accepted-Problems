@@ -2219,6 +2219,24 @@
     ],
     "timestamp": "Dec/14/2022 12:09"
   },
+  "CF186222580": {
+    "contest_id": 1774,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1774\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Coloring",
+    "problem_url": "https://codeforces.com/contest/1774/problem/B",
+    "submission_id": "CF186222580",
+    "submission_url": "https://codeforces.com/contest/1774/submission/186222580",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Dec/21/2022 18:59"
+  },
   "CF186333721": {
     "contest_id": 339,
     "language": "GNU C++20 (64)",
