@@ -2219,6 +2219,23 @@
     ],
     "timestamp": "Dec/14/2022 12:09"
   },
+  "CF186368734": {
+    "contest_id": 2,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\2\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Winner",
+    "problem_url": "https://codeforces.com/contest/2/problem/A",
+    "submission_id": "CF186368734",
+    "submission_url": "https://codeforces.com/contest/2/submission/186368734",
+    "tags": [
+      "hashing",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Dec/22/2022 21:03"
+  },
   "CF186414284": {
     "contest_id": 456,
     "language": "GNU C++20 (64)",
