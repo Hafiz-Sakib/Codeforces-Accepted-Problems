@@ -1,22 +1,16 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
+#include<bits/stdc++.h>
 using namespace std;
-int main()
-{
+#define ll long long
+int main () {
+	ios_base::sync_with_stdio(0);
+	cin.tie(0);cout.tie(0);
     string s;
-    cin >> s;
-    vector<int> v;
-
-    for (int i = 0; i < s.size(); i += 2)
-    {
-        v.push_back(s[i] - '0');
-    }
-    sort(v.begin(), v.end());
-    for (int i = 0; i < v.size(); ++i)
-    {
-        cout << v[i] << ((i + 1 < v.size()) ? "+" : "");
-    }
-    cout << endl;
-    return 0;
-}
+    cin>>s;
+    sort(s.begin(),s.end());	
+    for(ll i=0;i<=s.size()/2;i++){
+    	if(i==(s.size()/2)){
+    	cout<<s[s.size()/2+i];
+		break;}
+    	cout<<s[s.size()/2+i]<<s[i];
+	}
+	}
