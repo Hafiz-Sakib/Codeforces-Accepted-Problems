@@ -1,4 +1,20 @@
 {
+  "CF186790226": {
+    "contest_id": 628,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\628\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "New Skateboard",
+    "problem_url": "https://codeforces.com/contest/628/problem/B",
+    "submission_id": "CF186790226",
+    "submission_url": "https://codeforces.com/contest/628/submission/186790226",
+    "tags": [
+      "dp",
+      "*1300"
+    ],
+    "timestamp": "Dec/26/2022 21:58"
+  },
   "CF186950762": {
     "contest_id": 1774,
     "language": "GNU C++20 (64)",
