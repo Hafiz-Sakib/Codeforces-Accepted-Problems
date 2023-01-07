@@ -1,4 +1,21 @@
 {
+  "CF188339955": {
+    "contest_id": 479,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\479\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Expression",
+    "problem_url": "https://codeforces.com/contest/479/problem/A",
+    "submission_id": "CF188339955",
+    "submission_url": "https://codeforces.com/contest/479/submission/188339955",
+    "tags": [
+      "brute force",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jan/07/2023 21:56"
+  },
   "CF188777396": {
     "contest_id": 61,
     "language": "GNU C++20 (64)",
