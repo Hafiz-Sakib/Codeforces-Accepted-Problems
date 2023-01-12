@@ -20,35 +20,38 @@ using namespace std;
 
 void Boom()
 {
-    ll n, k, ans = 0, cnt = 1;
-    set<ll> s;
+    ll n, k, i, j;
     cin >> n >> k;
-    for (ll i = 1; i * i <= n; i++)
+    vector<ll> ans;
+    for (i = 1; i * i <= n; i++)
     {
         if (n % i == 0)
         {
-            s.insert(i);
-            s.insert(n / i);
+            ans.push_back(i);
+            ans.push_back(n / i);
         }
     }
 
-    for (auto u : s)
+    sort(ans.begin(), ans.end());
+
+    (ans).erase(unique(ans.begin(), ans.end()), (ans).end());
+
+    if (ans.size() < k)
     {
-        if (cnt == k)
-        {
-            cout << u << endl;
-            return;
-        }
-        cnt++;
+        cout << -1 << endl;
     }
-
-    cout << -1 << endl;
+    else
+    {
+        cout << ans[k - 1] << endl;
+    }
 }
 
 int main()
 {
     Boost;
+
     int t = 1;
+
     while (t--)
     {
         Boom();
