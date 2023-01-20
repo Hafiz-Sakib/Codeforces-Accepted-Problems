@@ -1,4 +1,20 @@
 {
+  "CF189845002": {
+    "contest_id": 129,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\129\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cookies",
+    "problem_url": "https://codeforces.com/contest/129/problem/A",
+    "submission_id": "CF189845002",
+    "submission_url": "https://codeforces.com/contest/129/submission/189845002",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jan/20/2023 19:27"
+  },
   "CF189848556": {
     "contest_id": 334,
     "language": "GNU C++20 (64)",
