@@ -1,4 +1,21 @@
 {
+  "CF189993062": {
+    "contest_id": 1777,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1777\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Everybody Likes Good Arrays!",
+    "problem_url": "https://codeforces.com/contest/1777/problem/A",
+    "submission_id": "CF189993062",
+    "submission_url": "https://codeforces.com/contest/1777/submission/189993062",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/21/2023 21:04"
+  },
   "CF190031089": {
     "contest_id": 1512,
     "language": "GNU C++20 (64)",
