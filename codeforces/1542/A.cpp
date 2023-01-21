@@ -27,9 +27,9 @@ void Boom()
     {
         cin >> v[i];
     }
-    for (auto u : v)
+    for (ll i = 0; i < v.size(); i++)
     {
-        if (u & 1)
+        if (v[i] & 1)
         {
             odd++;
         }
