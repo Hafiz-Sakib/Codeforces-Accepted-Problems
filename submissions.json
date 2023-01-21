@@ -1,4 +1,21 @@
 {
+  "CF190031089": {
+    "contest_id": 1512,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1512\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Spy Detected!",
+    "problem_url": "https://codeforces.com/contest/1512/problem/A",
+    "submission_id": "CF190031089",
+    "submission_url": "https://codeforces.com/contest/1512/submission/190031089",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/21/2023 23:57"
+  },
   "CF190130595": {
     "contest_id": 41,
     "language": "GNU C++20 (64)",
