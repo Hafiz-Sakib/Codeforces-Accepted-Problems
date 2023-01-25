@@ -44,7 +44,7 @@ void Boom()
         }
         else
         {
-            cout << even[0] << " " << odd[0] << " " << even[1] << endl;
+            cout << odd[0] << " " << even[0] << " " << even[1] << endl;
         }
     }
     else
