@@ -22,20 +22,20 @@ void Boom()
 {
     ll n, s, r;
     cin >> n >> s >> r;
-    vector<ll> vc(n - 1), dices;
-    vc.push_back(s - r);
+    vector<ll> v(n - 1);
+    v.push_back(s - r);
     int f = s - r;
     for (ll i = 0; i < n - 1; i++)
     {
-        vc[i] = 1;
-        r = r - 1;
+        v[i] = 1;
+        r--;
     }
     ll i = 0;
     while (r != 0)
     {
-        if (vc[i] < f)
+        if (v[i] < f)
         {
-            vc[i]++;
+            v[i]++;
             r--;
         }
         else
@@ -43,8 +43,8 @@ void Boom()
             i++;
         }
     }
-    sort(vc.begin(), vc.end());
-    for (auto u : vc)
+    sort(v.begin(), v.end());
+    for (auto u : v)
     {
         cout << u << " ";
     }
