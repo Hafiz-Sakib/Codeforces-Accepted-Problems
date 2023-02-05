@@ -218,16 +218,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 197 | [A - One and Two](https://codeforces.com/contest/1788/problem/A) | [GNU C++20 (64)](./codeforces/1788/A.cpp) | `brute force` `implementation` `math` `*800` | Feb/09/2023 20:47 | 
 196 | [A - Dragons](https://codeforces.com/contest/230/problem/A) | [GNU C++20 (64)](./codeforces/230/A.cpp) | `greedy` `sortings` `*1000` | Feb/07/2023 08:27 | 
 195 | [A - Game With Sticks](https://codeforces.com/contest/451/problem/A) | [GNU C++20 (64)](./codeforces/451/A.cpp) | `implementation` `*900` | Feb/05/2023 07:59 | 
-194 | [A - Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | [GNU C++20 (64)](./codeforces/1791/A.cpp) | `implementation` `strings` `*800` | Feb/05/2023 07:42 | 
-193 | [C - Premutation](https://codeforces.com/contest/1790/problem/C) | [GNU C++20 (64)](./codeforces/1790/C.cpp) | `brute force` `implementation` `math` `*1000` | Feb/05/2023 07:26 | 
-192 | [B - Taisia and Dice](https://codeforces.com/contest/1790/problem/B) | [GNU C++20 (64)](./codeforces/1790/B.cpp) | `greedy` `greedy` `math` `*800` | Feb/05/2023 07:26 | 
-191 | [A - Polycarp and the Day of Pi](https://codeforces.com/contest/1790/problem/A) | [GNU C++20 (64)](./codeforces/1790/A.cpp) | `implementation` `math` `strings` `*800` | Feb/05/2023 07:25 | 
-190 | [A - Colorful Stones (Simplified Edition)](https://codeforces.com/contest/265/problem/A) | [GNU C++20 (64)](./codeforces/265/A.cpp) | `implementation` `*800` | Feb/03/2023 19:54 | 
-189 | [A - Cheap Travel](https://codeforces.com/contest/466/problem/A) | [GNU C++20 (64)](./codeforces/466/A.cpp) | `implementation` `*1200` | Feb/03/2023 19:10 | 
-188 | [A - Puzzles](https://codeforces.com/contest/337/problem/A) | [GNU C++20 (64)](./codeforces/337/A.cpp) | `greedy` `*900` | Feb/03/2023 10:53 | 
-187 | [A - Games](https://codeforces.com/contest/268/problem/A) | [GNU C++20 (64)](./codeforces/268/A.cpp) | `brute force` `*800` | Feb/03/2023 10:19 | 
-186 | [E - Vlad and a Pair of Numbers](https://codeforces.com/contest/1790/problem/E) | [GNU C++20 (64)](./codeforces/1790/E.cpp) | `bitmasks` `constructive algorithms` `*1400` | Jan/27/2023 22:51 | 
-185 | [A - Comparing Strings](https://codeforces.com/contest/186/problem/A) | [GNU C++20 (64)](./codeforces/186/A.cpp) | `implementation` `strings` `*1100` | Jan/27/2023 20:21 | 
+194 | [A - Comparing Strings](https://codeforces.com/contest/186/problem/A) | [GNU C++20 (64)](./codeforces/186/A.cpp) | `implementation` `strings` `*1100` | Feb/05/2023 07:49 | 
+193 | [A - Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | [GNU C++20 (64)](./codeforces/1791/A.cpp) | `implementation` `strings` `*800` | Feb/05/2023 07:42 | 
+192 | [C - Premutation](https://codeforces.com/contest/1790/problem/C) | [GNU C++20 (64)](./codeforces/1790/C.cpp) | `brute force` `implementation` `math` `*1000` | Feb/05/2023 07:26 | 
+191 | [B - Taisia and Dice](https://codeforces.com/contest/1790/problem/B) | [GNU C++20 (64)](./codeforces/1790/B.cpp) | `greedy` `greedy` `math` `*800` | Feb/05/2023 07:26 | 
+190 | [A - Polycarp and the Day of Pi](https://codeforces.com/contest/1790/problem/A) | [GNU C++20 (64)](./codeforces/1790/A.cpp) | `implementation` `math` `strings` `*800` | Feb/05/2023 07:25 | 
+189 | [A - Colorful Stones (Simplified Edition)](https://codeforces.com/contest/265/problem/A) | [GNU C++20 (64)](./codeforces/265/A.cpp) | `implementation` `*800` | Feb/03/2023 19:54 | 
+188 | [A - Cheap Travel](https://codeforces.com/contest/466/problem/A) | [GNU C++20 (64)](./codeforces/466/A.cpp) | `implementation` `*1200` | Feb/03/2023 19:10 | 
+187 | [A - Puzzles](https://codeforces.com/contest/337/problem/A) | [GNU C++20 (64)](./codeforces/337/A.cpp) | `greedy` `*900` | Feb/03/2023 10:53 | 
+186 | [A - Games](https://codeforces.com/contest/268/problem/A) | [GNU C++20 (64)](./codeforces/268/A.cpp) | `brute force` `*800` | Feb/03/2023 10:19 | 
+185 | [E - Vlad and a Pair of Numbers](https://codeforces.com/contest/1790/problem/E) | [GNU C++20 (64)](./codeforces/1790/E.cpp) | `bitmasks` `constructive algorithms` `*1400` | Jan/27/2023 22:51 | 
 184 | [A - Hayato and School](https://codeforces.com/contest/1780/problem/A) | [GNU C++20 (64)](./codeforces/1780/A.cpp) | `constructive algorithms` `greedy` `*800` | Jan/25/2023 23:22 | 
 183 | [B - Stand-up Comedian](https://codeforces.com/contest/1792/problem/B) | [GNU C++20 (64)](./codeforces/1792/B.cpp) | `greedy` `math` `*1200` | Jan/25/2023 21:43 | 
 182 | [A - k-String](https://codeforces.com/contest/219/problem/A) | [GNU C++20 (64)](./codeforces/219/A.cpp) | `implementation` `strings` `*1000` | Jan/24/2023 23:32 | 
