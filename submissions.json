@@ -4271,6 +4271,23 @@
     ],
     "timestamp": "Feb/05/2023 07:42"
   },
+  "CF192220750": {
+    "contest_id": 1791,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1791\\G1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G1",
+    "problem_name": "Teleporters (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1791/problem/G1",
+    "submission_id": "CF192220750",
+    "submission_url": "https://codeforces.com/contest/1791/submission/192220750",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Feb/05/2023 07:46"
+  },
   "CF192220834": {
     "contest_id": 186,
     "language": "GNU C++20 (64)",
