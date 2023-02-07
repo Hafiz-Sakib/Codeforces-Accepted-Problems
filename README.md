@@ -216,7 +216,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 199 | [A - Sereja and Bottles](https://codeforces.com/contest/315/problem/A) | [GNU C++20 (64)](./codeforces/315/A.cpp) | `brute force` `*1400` | Feb/23/2023 09:56 | 
 198 | [A - Two Towers](https://codeforces.com/contest/1795/problem/A) | [GNU C++20 (64)](./codeforces/1795/A.cpp) | `brute force` `implementation` `strings` `*800` | Feb/18/2023 22:53 | 
 197 | [A - One and Two](https://codeforces.com/contest/1788/problem/A) | [GNU C++20 (64)](./codeforces/1788/A.cpp) | `brute force` `implementation` `math` `*800` | Feb/09/2023 20:47 | 
-196 | [A - Dragons](https://codeforces.com/contest/230/problem/A) | [GNU C++20 (64)](./codeforces/230/A.cpp) | `greedy` `sortings` `*1000` | Feb/05/2023 22:40 | 
+196 | [A - Dragons](https://codeforces.com/contest/230/problem/A) | [GNU C++20 (64)](./codeforces/230/A.cpp) | `greedy` `sortings` `*1000` | Feb/07/2023 08:27 | 
 195 | [A - Game With Sticks](https://codeforces.com/contest/451/problem/A) | [GNU C++20 (64)](./codeforces/451/A.cpp) | `implementation` `*900` | Feb/05/2023 07:59 | 
 194 | [A - Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | [GNU C++20 (64)](./codeforces/1791/A.cpp) | `implementation` `strings` `*800` | Feb/05/2023 07:42 | 
 193 | [C - Premutation](https://codeforces.com/contest/1790/problem/C) | [GNU C++20 (64)](./codeforces/1790/C.cpp) | `brute force` `implementation` `math` `*1000` | Feb/05/2023 07:26 | 
