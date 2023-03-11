@@ -4389,6 +4389,22 @@
     ],
     "timestamp": "Mar/12/2023 01:14"
   },
+  "CF196982246": {
+    "contest_id": 162,
+    "language": "Factor",
+    "path": "codeforces\\162\\H.factor",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Alternating case",
+    "problem_url": "https://codeforces.com/contest/162/problem/H",
+    "submission_id": "CF196982246",
+    "submission_url": "https://codeforces.com/contest/162/submission/196982246",
+    "tags": [
+      "*special problem",
+      "*1800"
+    ],
+    "timestamp": "Mar/12/2023 01:35"
+  },
   "CF197784202": {
     "contest_id": 205,
     "language": "GNU C++17 (64)",
