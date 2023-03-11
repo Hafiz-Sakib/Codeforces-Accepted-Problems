@@ -1,7 +1,8 @@
 #include<bits/stdc++.h> 
 using namespace std; 
 void solve(){
-    int n; cin>>n; 
+    int n;
+    cin>>n; 
     int xs = 0, ys  = 0, zs = 0;
     while(n--){
         int x, y, z; cin>>x>>y>>z; 
