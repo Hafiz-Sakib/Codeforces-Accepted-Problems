@@ -4389,6 +4389,22 @@
     ],
     "timestamp": "Mar/12/2023 01:14"
   },
+  "CF198693215": {
+    "contest_id": 1807,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1807\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Grab the Candies",
+    "problem_url": "https://codeforces.com/contest/1807/problem/B",
+    "submission_id": "CF198693215",
+    "submission_url": "https://codeforces.com/contest/1807/submission/198693215",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Mar/23/2023 10:34"
+  },
   "CF198693325": {
     "contest_id": 1807,
     "language": "GNU C++17 (64)",
