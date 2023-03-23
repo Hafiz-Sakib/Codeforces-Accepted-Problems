@@ -56,26 +56,26 @@ typedef set<string> ss;
 
 void Boom()
 {
-    int n, ok = 1;
+    int n;
     cin >> n;
     string s;
     cin >> s;
+    int ok = 1;
     map<char, int> mp;
     for (int i = 0; i < s.size(); i++)
     {
-        char a = s[i];
-        if (mp.find(a) == mp.end())
+        if (mp.find(s[i]) == mp.end())
         {
-            mp[a] = i;
+            mp[s[i]] = i;
         }
         else
         {
-            if (i - mp[a] & 1)
+            if (i - mp[s[i]] & 1)
             {
                 ok = 0;
                 break;
             }
-            mp[a] = i;
+            mp[s[i]] = i;
         }
     }
     ok ? yes : no;
