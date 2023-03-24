@@ -58,23 +58,21 @@ void Boom()
 {
     ll n, q;
     cin >> n >> q;
-    vector<ll> v(n + 1, 0), PreSum(n + 1, 0);
+    vi v(n + 1, 0), s(n + 1, 0);
     for (int i = 1; i <= n; i++)
     {
         cin >> v[i];
     }
-
     for (int i = 1; i <= n; i++)
     {
-        PreSum[i] = PreSum[i - 1] + v[i];
+        s[i] = s[i - 1] + v[i];
     }
-
     while (q--)
     {
-        ll l, r, k, sum = PreSum[n];
+        ll l, r, k, sum = s[n];
         cin >> l >> r >> k;
 
-        sum -= (PreSum[r] - PreSum[l - 1]);
+        sum -= (s[r] - s[l - 1]);
         sum += ((r - l + 1) * k);
 
         (sum & 1) ? yes : no;
