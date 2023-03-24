@@ -58,27 +58,37 @@ void Boom()
 {
     string s;
     cin >> s;
+    set<char> st;
     map<char, int> mp;
-    int maxi = 0;
-    for (auto u : s)
+    for (auto c : s)
     {
-        mp[u]++;
+        st.in(c);
+        mp[c]++;
     }
-    for (auto u : mp)
-    {
-        maxi = max(maxi, u.second);
-    }
-    if (maxi == 4)
+    int sz = st.size();
+    if (sz == 1)
     {
         cout << -1 << endl;
     }
-    else if (maxi == 3)
-    {
-        cout << 6 << endl;
-    }
-    else
+    else if (sz == 4)
     {
         cout << 4 << endl;
+    }
+    else if (sz == 3)
+    {
+        cout << 4 << endl;
+    }
+    else if (sz == 2)
+    {
+        int ans = 4;
+        for (auto u : mp)
+        {
+            if (u.second == 1)
+            {
+                ans = 6;
+            }
+        }
+        cout << ans << endl;
     }
 }
 
