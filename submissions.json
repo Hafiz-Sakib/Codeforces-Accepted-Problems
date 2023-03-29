@@ -3137,6 +3137,23 @@
     ],
     "timestamp": "Jan/27/2023 22:20"
   },
+  "CF199702648": {
+    "contest_id": 1808,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1808\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lucky Numbers",
+    "problem_url": "https://codeforces.com/contest/1808/problem/A",
+    "submission_id": "CF199702648",
+    "submission_url": "https://codeforces.com/contest/1808/submission/199702648",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Mar/29/2023 18:48"
+  },
   "CF199939425": {
     "contest_id": 1807,
     "language": "GNU C++17 (64)",
