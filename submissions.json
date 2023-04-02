@@ -3137,6 +3137,24 @@
     ],
     "timestamp": "Jan/27/2023 22:20"
   },
+  "CF200324484": {
+    "contest_id": 1812,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1812\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Trivial Conjecture",
+    "problem_url": "https://codeforces.com/contest/1812/problem/D",
+    "submission_id": "CF200324484",
+    "submission_url": "https://codeforces.com/contest/1812/submission/200324484",
+    "tags": [
+      "*special problem",
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Apr/02/2023 09:55"
+  },
   "CF200325114": {
     "contest_id": 1812,
     "language": "GNU C++20 (64)",
