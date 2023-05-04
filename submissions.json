@@ -1,4 +1,20 @@
 {
+  "CF204443873": {
+    "contest_id": 1644,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1644\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Doors and Keys",
+    "problem_url": "https://codeforces.com/contest/1644/problem/A",
+    "submission_id": "CF204443873",
+    "submission_url": "https://codeforces.com/contest/1644/submission/204443873",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/04/2023 17:14"
+  },
   "CF204478342": {
     "contest_id": 1042,
     "language": "GNU C++20 (64)",
