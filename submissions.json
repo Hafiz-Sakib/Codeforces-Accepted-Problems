@@ -1,4 +1,22 @@
 {
+  "CF204653755": {
+    "contest_id": 1826,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1826\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Dreaming of Freedom",
+    "problem_url": "https://codeforces.com/contest/1826/problem/C",
+    "submission_id": "CF204653755",
+    "submission_url": "https://codeforces.com/contest/1826/submission/204653755",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "May/06/2023 00:09"
+  },
   "CF204661331": {
     "contest_id": 1673,
     "language": "GNU C++20 (64)",
