@@ -45,23 +45,21 @@ void Boom()
     {
         cin >> v[i];
     }
-    int maxi = 0;
-    int now = 0;
 
-    for (int i = 0; i < n; i++)
+    ll got = 0, maxi = 0;
+
+    for (auto u : v)
     {
-        if (v[i] == 0)
+        if (u == 0)
         {
-            now++;
+            got++;
         }
         else
         {
-            maxi = max(maxi, now);
-            now = 0;
+            got = 0;
         }
+        maxi = max(maxi, got);
     }
-
-    maxi = max(maxi, now);
 
     cout << maxi << endl;
 }
