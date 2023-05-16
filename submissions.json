@@ -1,4 +1,22 @@
 {
+  "CF206039526": {
+    "contest_id": 864,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\864\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bus",
+    "problem_url": "https://codeforces.com/contest/864/problem/C",
+    "submission_id": "CF206039526",
+    "submission_url": "https://codeforces.com/contest/864/submission/206039526",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "May/16/2023 08:18"
+  },
   "CF206078591": {
     "contest_id": 1832,
     "language": "GNU C++20 (64)",
