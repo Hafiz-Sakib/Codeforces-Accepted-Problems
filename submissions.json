@@ -1722,6 +1722,22 @@
     ],
     "timestamp": "May/17/2023 14:23"
   },
+  "CF206218311": {
+    "contest_id": 26,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\26\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Almost Prime",
+    "problem_url": "https://codeforces.com/contest/26/problem/A",
+    "submission_id": "CF206218311",
+    "submission_url": "https://codeforces.com/contest/26/submission/206218311",
+    "tags": [
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "May/17/2023 19:45"
+  },
   "CF206350946": {
     "contest_id": 1351,
     "language": "GNU C++20 (64)",
