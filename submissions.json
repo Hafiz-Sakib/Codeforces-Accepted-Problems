@@ -1722,6 +1722,23 @@
     ],
     "timestamp": "May/17/2023 14:23"
   },
+  "CF206458482": {
+    "contest_id": 1814,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1814\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Long Legs",
+    "problem_url": "https://codeforces.com/contest/1814/problem/B",
+    "submission_id": "CF206458482",
+    "submission_url": "https://codeforces.com/contest/1814/submission/206458482",
+    "tags": [
+      "brute force",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "May/19/2023 20:37"
+  },
   "CF206474707": {
     "contest_id": 1833,
     "language": "GNU C++20 (64)",
