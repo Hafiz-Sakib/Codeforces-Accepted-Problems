@@ -1722,6 +1722,24 @@
     ],
     "timestamp": "May/17/2023 14:23"
   },
+  "CF206632461": {
+    "contest_id": 1833,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1833\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Flipper",
+    "problem_url": "https://codeforces.com/contest/1833/problem/D",
+    "submission_id": "CF206632461",
+    "submission_url": "https://codeforces.com/contest/1833/submission/206632461",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "May/20/2023 17:20"
+  },
   "CF206632757": {
     "contest_id": 1351,
     "language": "GNU C++20 (64)",
