@@ -57,20 +57,27 @@ typedef set<string> ss;
 void Boom()
 {
     int n;
-    cin >> n;
+    cin>>n;
 
-    vi a(n + 1);
+    vi a(n+1);
 
-    for (int i = 1; i <= n; i++)
-    {
-        cin >> a[i];
+    for(int i=1; i<=n; i++) {
+
+        cin>>a[i];
+
     }
 
-    for (int i = 1; i <= n; i++)
-    {
-        cout << (n - a[i] + 1) << " ";
+    
+
+    for(int i=1; i<=n; i++) {
+
+        cout<<(n-a[i]+1)<<" ";
+
     }
-    cout << endl;
+
+    cout<<endl;
+
+
 }
 
 int main()
