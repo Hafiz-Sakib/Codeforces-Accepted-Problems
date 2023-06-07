@@ -1722,6 +1722,22 @@
     ],
     "timestamp": "May/17/2023 14:23"
   },
+  "CF208914585": {
+    "contest_id": 999,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\999\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Alphabetic Removals",
+    "problem_url": "https://codeforces.com/contest/999/problem/C",
+    "submission_id": "CF208914585",
+    "submission_url": "https://codeforces.com/contest/999/submission/208914585",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jun/07/2023 22:17"
+  },
   "CF208982996": {
     "contest_id": 996,
     "language": "GNU C++20 (64)",
