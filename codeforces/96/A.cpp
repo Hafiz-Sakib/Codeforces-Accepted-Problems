@@ -15,35 +15,21 @@ void Boom()
 {
     string s;
     cin >> s;
-    vi zero, one;
-    int ok = 0;
+    int c = 0, ok = 0;
     for (int i = 0; i < s.size(); i++)
     {
-        if (s[i] == '0' && s[i + 1] == '0')
+        if (s[i] == s[i + 1])
         {
-            zero.push_back(0);
-            if (zero.size() >= 6)
+            c++;
+        }
+        else
+        {
+            if (c >= 6)
             {
                 ok = 1;
                 break;
             }
-        }
-        else
-        {
-            zero.clear();
-        }
-        if (s[i] == '1' && s[i + 1] == '1')
-        {
-            one.push_back(0);
-            if (one.size() >= 6)
-            {
-                ok = 1;
-                break;
-            }
-        }
-        else
-        {
-            one.clear();
+            c = 0;
         }
     }
     ok ? yes : no;
