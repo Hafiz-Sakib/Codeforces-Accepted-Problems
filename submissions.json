@@ -1908,6 +1908,25 @@
     ],
     "timestamp": "Jul/03/2023 14:08"
   },
+  "CF212417955": {
+    "contest_id": 151,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\151\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Win or Freeze",
+    "problem_url": "https://codeforces.com/contest/151/problem/C",
+    "submission_id": "CF212417955",
+    "submission_url": "https://codeforces.com/contest/151/submission/212417955",
+    "tags": [
+      "games",
+      "greedy",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Jul/06/2023 21:42"
+  },
   "CF212498210": {
     "contest_id": 157,
     "language": "GNU C++20 (64)",
