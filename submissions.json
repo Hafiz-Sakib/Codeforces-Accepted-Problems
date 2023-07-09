@@ -1908,6 +1908,24 @@
     ],
     "timestamp": "Jul/03/2023 14:08"
   },
+  "CF212906598": {
+    "contest_id": 157,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\157\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Message",
+    "problem_url": "https://codeforces.com/contest/157/problem/C",
+    "submission_id": "CF212906598",
+    "submission_url": "https://codeforces.com/contest/157/submission/212906598",
+    "tags": [
+      "brute force",
+      "dp",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Jul/09/2023 08:34"
+  },
   "CF213092062": {
     "contest_id": 998,
     "language": "GNU C++20 (64)",
