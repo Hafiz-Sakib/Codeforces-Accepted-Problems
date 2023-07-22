@@ -72,7 +72,11 @@ void Boom()
     }
     for (int i = 0; i < n; i++)
     {
-        if (v[i].first <= 10)
+        if (v[i].first > 10)
+        {
+            continue;
+        }
+        else
         {
             if (v[i].second > maxi)
             {
