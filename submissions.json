@@ -1962,6 +1962,23 @@
     ],
     "timestamp": "Jul/12/2023 19:23"
   },
+  "CF215061851": {
+    "contest_id": 1850,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1850\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "To My Critics",
+    "problem_url": "https://codeforces.com/contest/1850/problem/A",
+    "submission_id": "CF215061851",
+    "submission_url": "https://codeforces.com/contest/1850/submission/215061851",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jul/22/2023 21:10"
+  },
   "CF215064181": {
     "contest_id": 1850,
     "language": "GNU C++20 (64)",
