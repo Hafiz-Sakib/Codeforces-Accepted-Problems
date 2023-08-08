@@ -63,12 +63,17 @@ const double eps = 1e-12;
 
 void Boom()
 {
-    int n, x;
+    int n;
     cin >> n;
-    vi v(n), odd, even;
-    for (auto &x : v)
+    vi v(n);
+    for (int i = 0; i < n; i++)
     {
-        cin >> x;
+        cin >> v[i];
+    }
+    vi odd, even;
+    for (int i = 0; i < n; i++)
+    {
+        int x = v[i];
         (x & 1) ? odd.pb(x) : even.pb(x);
     }
     int os = vecSum(odd);
