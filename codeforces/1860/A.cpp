@@ -72,17 +72,17 @@ void Boom()
     string c2 = string(N, '(') + string(N, ')');
     if (c1.find(S) == string::npos)
     {
-        yes;
-        cout << c1 << endl;
+        cout << "YES" << '\n';
+        cout << c1 << '\n';
     }
     else if (c2.find(S) == string::npos)
     {
-        yes;
-        cout << c2 << endl;
+        cout << "YES" << '\n';
+        cout << c2 << '\n';
     }
     else
     {
-        no;
+        cout << "NO" << '\n';
     }
 }
 

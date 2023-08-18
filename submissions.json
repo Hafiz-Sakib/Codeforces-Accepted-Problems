@@ -1,4 +1,21 @@
 {
+  "CF219398864": {
+    "contest_id": 1860,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1860\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Not a Substring",
+    "problem_url": "https://codeforces.com/contest/1860/problem/A",
+    "submission_id": "CF219398864",
+    "submission_url": "https://codeforces.com/contest/1860/submission/219398864",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Aug/18/2023 10:50"
+  },
   "CF219399103": {
     "contest_id": 1860,
     "language": "GNU C++20 (64)",
