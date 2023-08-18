@@ -68,9 +68,7 @@ void Boom()
     int N = (int)S.size();
     string c1;
     for (int i = 0; i < N; i++)
-    {
         c1 += "()";
-    }
     string c2 = string(N, '(') + string(N, ')');
     if (c1.find(S) == string::npos)
     {
