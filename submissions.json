@@ -1,4 +1,20 @@
 {
+  "CF226107102": {
+    "contest_id": 888,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\888\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Buggy Robot",
+    "problem_url": "https://codeforces.com/contest/888/problem/B",
+    "submission_id": "CF226107102",
+    "submission_url": "https://codeforces.com/contest/888/submission/226107102",
+    "tags": [
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Oct/01/2023 10:43"
+  },
   "CF226443971": {
     "contest_id": 1873,
     "language": "GNU C++20 (64)",
