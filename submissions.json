@@ -1,4 +1,20 @@
 {
+  "CF234732351": {
+    "contest_id": 1223,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1223\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "CME",
+    "problem_url": "https://codeforces.com/contest/1223/problem/A",
+    "submission_id": "CF234732351",
+    "submission_url": "https://codeforces.com/contest/1223/submission/234732351",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/28/2023 16:14"
+  },
   "CF235170125": {
     "contest_id": 1903,
     "language": "GNU C++20 (64)",
