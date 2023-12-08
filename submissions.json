@@ -1,4 +1,20 @@
 {
+  "CF236368160": {
+    "contest_id": 1907,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1907\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Rook",
+    "problem_url": "https://codeforces.com/contest/1907/problem/A",
+    "submission_id": "CF236368160",
+    "submission_url": "https://codeforces.com/contest/1907/submission/236368160",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/08/2023 20:22"
+  },
   "CF237618903": {
     "contest_id": 791,
     "language": "GNU C++20 (64)",
