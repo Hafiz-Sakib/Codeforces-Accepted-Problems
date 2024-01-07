@@ -26,6 +26,7 @@ typedef set<char> sc;
 typedef set<string> ss;
 
 #define pb push_back
+#define mp make_pair
 #define in insert
 #define fi first
 #define se second
@@ -62,32 +63,49 @@ const double eps = 1e-12;
 
 void Boom()
 {
-    string a, b, c;
-    cin >> a >> b >> c;
-    map<char, int> mp;
-
-    for (char u : a)
+    int idx;
+    char v[3][3];
+    for (int i = 0; i < 3; i++)
     {
-        mp[u]++;
+        for (int j = 0; j < 3; j++)
+        {
+            cin >> v[i][j];
+            if (v[i][j] == '?')
+            {
+                idx = i;
+            }
+        }
     }
-    for (char u : b)
+    string s = "";
+    for (int i = 0; i < 3; i++)
     {
-        mp[u]++;
+        s += v[idx][i];
     }
-    for (char u : c)
+    int A = 0, B = 0, C = 0;
+    for (auto u : s)
     {
-        mp[u]++;
+        if (u == 'A')
+        {
+            A = 1;
+        }
+        else if (u == 'B')
+        {
+            B = 1;
+        }
+        else if (u == 'C')
+        {
+            C = 1;
+        }
     }
-
-    if (mp['A'] == 2)
+    if (!A)
     {
         cout << 'A' << endl;
     }
-    else if (mp['B'] == 2)
+    else if (!B)
     {
         cout << 'B' << endl;
     }
-    if (mp['C'] == 2)
+    else if (!C)
     {
         cout << 'C' << endl;
     }
