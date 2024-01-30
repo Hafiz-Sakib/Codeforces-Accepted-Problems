@@ -1,4 +1,23 @@
 {
+  "CF244154313": {
+    "contest_id": 1598,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1598\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Computer Game",
+    "problem_url": "https://codeforces.com/contest/1598/problem/A",
+    "submission_id": "CF244154313",
+    "submission_url": "https://codeforces.com/contest/1598/submission/244154313",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/31/2024 00:18"
+  },
   "CF245080083": {
     "contest_id": 977,
     "language": "GNU C++20 (64)",
