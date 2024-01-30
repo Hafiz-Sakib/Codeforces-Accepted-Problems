@@ -1,4 +1,21 @@
 {
+  "CF244150807": {
+    "contest_id": 444,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\444\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "DZY Loves Physics",
+    "problem_url": "https://codeforces.com/contest/444/problem/A",
+    "submission_id": "CF244150807",
+    "submission_url": "https://codeforces.com/contest/444/submission/244150807",
+    "tags": [
+      "greedy",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jan/30/2024 23:50"
+  },
   "CF244154313": {
     "contest_id": 1598,
     "language": "GNU C++20 (64)",
