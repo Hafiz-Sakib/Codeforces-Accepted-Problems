@@ -66,16 +66,9 @@ void Boom()
     int n, f = 0, l = 0;
     string s;
     cin >> n >> s;
-    f = s.find('B');
-    l = s.rfind('B');
-    if (l == string::npos)
-    {
-        cout << 0 << endl;
-    }
-    else
-    {
-        cout << (l - f) + 1 << endl;
-    }
+    f = s.find('B') + 1;
+    l = s.rfind('B') + 1;
+    cout << (l - f) + 1 << endl;
 }
 
 int main()
