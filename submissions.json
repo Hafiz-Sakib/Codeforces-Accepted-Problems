@@ -1,4 +1,21 @@
 {
+  "CF245138393": {
+    "contest_id": 1927,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1927\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Following the String",
+    "problem_url": "https://codeforces.com/contest/1927/problem/B",
+    "submission_id": "CF245138393",
+    "submission_url": "https://codeforces.com/contest/1927/submission/245138393",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings"
+    ],
+    "timestamp": "Feb/06/2024 21:21"
+  },
   "CF245191370": {
     "contest_id": 1927,
     "language": "GNU C++20 (64)",
