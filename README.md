@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-409 | [B - Make Equal](https://codeforces.com/contest/1931/problem/B) | [GNU C++20 (64)](./codeforces/1931/B.cpp) | `greedy` | Feb/13/2024 21:31 | 
-408 | [C - Make Equal Again](https://codeforces.com/contest/1931/problem/C) | [GNU C++20 (64)](./codeforces/1931/C.cpp) | `brute force` `greedy` `math` | Feb/13/2024 21:04 | 
+410 | [B - Make Equal](https://codeforces.com/contest/1931/problem/B) | [GNU C++20 (64)](./codeforces/1931/B.cpp) | `greedy` | Feb/13/2024 21:31 | 
+409 | [C - Make Equal Again](https://codeforces.com/contest/1931/problem/C) | [GNU C++20 (64)](./codeforces/1931/C.cpp) | `brute force` `greedy` `math` | Feb/13/2024 21:04 | 
+408 | [A - Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | [GNU C++20 (64)](./codeforces/1931/A.cpp) | `brute force` `strings` | Feb/13/2024 20:39 | 
 407 | [A - In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | [GNU C++20 (64)](./codeforces/1030/A.cpp) | `implementation` `*800` | Feb/13/2024 19:13 | 
 406 | [A - Vanya and Fence](https://codeforces.com/contest/677/problem/A) | [GNU C++20 (64)](./codeforces/677/A.cpp) | `implementation` `*800` | Feb/13/2024 18:47 | 
 405 | [F - Forever Winter](https://codeforces.com/contest/1829/problem/F) | [GNU C++20 (64)](./codeforces/1829/F.cpp) | `dfs and similar` `graphs` `math` `*1300` | Feb/08/2024 18:14 | 
