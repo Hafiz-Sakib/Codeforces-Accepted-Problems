@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+408 | [B - Make Equal](https://codeforces.com/contest/1931/problem/B) | [GNU C++20 (64)](./codeforces/1931/B.cpp) | `greedy` | Feb/13/2024 21:31 | 
 407 | [A - In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | [GNU C++20 (64)](./codeforces/1030/A.cpp) | `implementation` `*800` | Feb/13/2024 19:13 | 
 406 | [A - Vanya and Fence](https://codeforces.com/contest/677/problem/A) | [GNU C++20 (64)](./codeforces/677/A.cpp) | `implementation` `*800` | Feb/13/2024 18:47 | 
 405 | [F - Forever Winter](https://codeforces.com/contest/1829/problem/F) | [GNU C++20 (64)](./codeforces/1829/F.cpp) | `dfs and similar` `graphs` `math` `*1300` | Feb/08/2024 18:14 | 

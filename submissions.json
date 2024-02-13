@@ -8515,5 +8515,20 @@
       "*800"
     ],
     "timestamp": "Feb/13/2024 19:13"
+  },
+  "CF246190861": {
+    "contest_id": 1931,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1931\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Make Equal",
+    "problem_url": "https://codeforces.com/contest/1931/problem/B",
+    "submission_id": "CF246190861",
+    "submission_url": "https://codeforces.com/contest/1931/submission/246190861",
+    "tags": [
+      "greedy"
+    ],
+    "timestamp": "Feb/13/2024 21:31"
   }
 }
