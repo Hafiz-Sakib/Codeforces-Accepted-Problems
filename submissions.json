@@ -8516,6 +8516,23 @@
     ],
     "timestamp": "Feb/13/2024 19:13"
   },
+  "CF246158037": {
+    "contest_id": 1931,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1931\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Make Equal Again",
+    "problem_url": "https://codeforces.com/contest/1931/problem/C",
+    "submission_id": "CF246158037",
+    "submission_url": "https://codeforces.com/contest/1931/submission/246158037",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Feb/13/2024 21:04"
+  },
   "CF246190861": {
     "contest_id": 1931,
     "language": "GNU C++20 (64)",
