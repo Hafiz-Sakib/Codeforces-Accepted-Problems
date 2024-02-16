@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+411 | [B - Sasha and the Drawing](https://codeforces.com/contest/1929/problem/B) | [GNU C++20 (64)](./codeforces/1929/B.cpp) | `constructive algorithms` `greedy` `math` `*800` | Feb/16/2024 22:21 | 
 410 | [B - Make Equal](https://codeforces.com/contest/1931/problem/B) | [GNU C++20 (64)](./codeforces/1931/B.cpp) | `greedy` | Feb/13/2024 21:31 | 
 409 | [C - Make Equal Again](https://codeforces.com/contest/1931/problem/C) | [GNU C++20 (64)](./codeforces/1931/C.cpp) | `brute force` `greedy` `math` | Feb/13/2024 21:04 | 
 408 | [A - Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | [GNU C++20 (64)](./codeforces/1931/A.cpp) | `brute force` `strings` | Feb/13/2024 20:39 | 
