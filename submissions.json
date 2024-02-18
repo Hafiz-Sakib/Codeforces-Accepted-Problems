@@ -8599,5 +8599,20 @@
       "*800"
     ],
     "timestamp": "Feb/16/2024 22:21"
+  },
+  "CF247103509": {
+    "contest_id": 1932,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1932\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Chaya Calendar",
+    "problem_url": "https://codeforces.com/contest/1932/problem/B",
+    "submission_id": "CF247103509",
+    "submission_url": "https://codeforces.com/contest/1932/submission/247103509",
+    "tags": [
+      "number theory"
+    ],
+    "timestamp": "Feb/18/2024 20:53"
   }
 }

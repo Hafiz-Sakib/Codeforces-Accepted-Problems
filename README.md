@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+413 | [B - Chaya Calendar](https://codeforces.com/contest/1932/problem/B) | [GNU C++20 (64)](./codeforces/1932/B.cpp) | `number theory` | Feb/18/2024 20:53 | 
 412 | [B - Sasha and the Drawing](https://codeforces.com/contest/1929/problem/B) | [GNU C++20 (64)](./codeforces/1929/B.cpp) | `constructive algorithms` `greedy` `math` `*800` | Feb/16/2024 22:21 | 
 411 | [A - Sasha and the Beautiful Array](https://codeforces.com/contest/1929/problem/A) | [GNU C++20 (64)](./codeforces/1929/A.cpp) | `constructive algorithms` `greedy` `sortings` `*800` | Feb/16/2024 21:52 | 
 410 | [B - Make Equal](https://codeforces.com/contest/1931/problem/B) | [GNU C++20 (64)](./codeforces/1931/B.cpp) | `greedy` | Feb/13/2024 21:31 | 
