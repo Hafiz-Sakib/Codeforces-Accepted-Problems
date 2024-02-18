@@ -67,7 +67,7 @@ void Boom()
     cin >> n;
     string s;
     cin >> s;
-    // s += 'x';
+    s += 'x';
     for (int i = 0; i < n; i++)
     {
         if (s[i] == '*' && s[i + 1] == '*')
