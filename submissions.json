@@ -8648,5 +8648,20 @@
       "number theory"
     ],
     "timestamp": "Feb/18/2024 20:53"
+  },
+  "CF247341277": {
+    "contest_id": 1926,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1926\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Vlad and Division",
+    "problem_url": "https://codeforces.com/contest/1926/problem/D",
+    "submission_id": "CF247341277",
+    "submission_url": "https://codeforces.com/contest/1926/submission/247341277",
+    "tags": [
+      "greedy"
+    ],
+    "timestamp": "Feb/19/2024 22:13"
   }
 }
