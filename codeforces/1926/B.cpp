@@ -32,8 +32,8 @@ typedef set<string> ss;
 #define se second
 #define space ' '
 #define endl "\n"
-#define yes cout << "SQUARE\n"
 #define no cout << "TRIANGLE\n"
+#define yes cout << "SQUARE\n"
 
 #define b() begin()
 #define e() end()
@@ -61,41 +61,22 @@ const double eps = 1e-12;
     cin.tie(NULL);                    \
     cout.tie(NULL)
 
-vector<int> input()
-{
-    string input;
-    getline(cin, input);
-    stringstream ss(input);
-    vector<int> numbers;
-    string tmp;
-    while (getline(ss, tmp, ' '))
-    {
-        numbers.push_back(stoi(tmp));
-    }
-    return numbers;
-}
 void Boom()
 {
-    vector<int> take = input();
-    int tt = take[0];
-
-    while (tt--)
+    int n;
+    cin >> n;
+    ignore;
+    set<int> s;
+    for (int i = 0; i < n; i++)
     {
-        vector<int> M;
-        int n = input()[0];
-
-        unordered_set<int> s;
-        for (int i = 0; i < n; ++i)
+        string ss;
+        getline(cin, ss);
+        if (ss.find('1') != string::npos)
         {
-            string ss;
-            getline(cin, ss);
-            if (ss.find('1') != string::npos)
-            {
-                s.insert(count(ss.begin(), ss.end(), '1'));
-            }
+            s.insert(count(ss.begin(), ss.end(), '1'));
         }
-        (s.size() == 1) ? yes : no;
     }
+    (s.size() == 1) ? yes : no;
 }
 
 int main()
@@ -103,6 +84,7 @@ int main()
     Boost;
 
     int t = 1;
+    cin >> t;
     while (t--)
     {
         Boom();
