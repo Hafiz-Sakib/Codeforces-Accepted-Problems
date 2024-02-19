@@ -66,7 +66,7 @@ void Boom()
     int n;
     cin >> n;
     ignore;
-    set<int> s;
+    unordered_set<int> s;
     for (int i = 0; i < n; i++)
     {
         string ss;
