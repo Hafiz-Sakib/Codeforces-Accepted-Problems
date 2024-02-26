@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+420 | [A - The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | [GNU C++20 (64)](./codeforces/723/A.cpp) | `implementation` `math` `sortings` `*800` | Feb/26/2024 21:40 | 
 419 | [E - Vlad and an Odd Ordering](https://codeforces.com/contest/1926/problem/E) | [GNU C++20 (64)](./codeforces/1926/E.cpp) | `binary search` `bitmasks` `data structures` `dp` `implementation` `math` `number theory` | Feb/20/2024 11:27 | 
 418 | [B - Vlad and Shapes](https://codeforces.com/contest/1926/problem/B) | [GNU C++20 (64)](./codeforces/1926/B.cpp) | `implementation` | Feb/19/2024 23:34 | 
 417 | [D - Vlad and Division](https://codeforces.com/contest/1926/problem/D) | [GNU C++20 (64)](./codeforces/1926/D.cpp) | `greedy` | Feb/19/2024 22:13 | 
